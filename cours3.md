@@ -79,7 +79,7 @@ Ces variables permettent d’accéder aux données envoyées par un formulaire.
 
 ---
 
-#### 3. **Validation et nettoyage des données (30 minutes)**
+#### 3. **Validation et nettoyage des données**
 
 ##### **Pourquoi valider et nettoyer les données ?**
 
