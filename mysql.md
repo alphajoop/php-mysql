@@ -1,4 +1,3 @@
-```markdown
 # **Cours 7 : Bases de données et SQL avec MySQL**
 
 ## **Objectif du cours**
@@ -141,4 +140,3 @@ Ces compétences sont essentielles pour gérer les données dans une application
    - `DELETE` : Supprimer des données.
 2. **Bonne pratique** :
    - Toujours utiliser des conditions avec `WHERE` pour éviter les erreurs dans les requêtes `UPDATE` et `DELETE`.
-```
